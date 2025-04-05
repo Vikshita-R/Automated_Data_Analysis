@@ -1,6 +1,5 @@
 # Automated Data Analysis
 
-This project is built to streamline and simplify the process of analyzing structured datasets. It is designed for anyone who wants to gain insights from data without writing repetitive code every time.
 
 ## Project Objective
 
